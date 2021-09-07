@@ -1,3 +1,12 @@
+/*
+Sample Input
+0 0
+5 12
+Sample Output
+0
+120
+*/
+
 #include <iostream>
 #include <cstdio>
 #include <string>
